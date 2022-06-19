@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "62ae523ee326174e80ca988a"
+  },
+  "theme": "rosyFlamingo",
+  "user_id": {
+    "$oid": "62aa3387bb3ead389541946e"
+  }
+},
+{
+  "_id": {
+    "$oid": "62ae523ee326174e80ca988b"
+  },
+  "theme": "default",
+  "user_id": {
+    "$oid": "62aa3387bb3ead389541946f"
+  }
+}]
